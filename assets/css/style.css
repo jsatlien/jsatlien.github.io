@@ -1277,5 +1277,10 @@ font-size: 14px;
 
 #resume-download {
 	border: 1px solid #F6F6F6;
-	border-bottom: none;
+}
+
+#resume-download:hover {
+	background-color: #F6F6F6;
+	border: 1px solid #62E6DC;
+	animation-duration: 1s;
 }
