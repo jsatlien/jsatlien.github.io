@@ -1225,13 +1225,13 @@ font-size: 14px;
 .intro-line {
 	-webkit-text-stroke: 1px black;
 	font-size: 30px;
-	/*font-family: 'Press Start 2P', cursive;*/
+	/*font-family: 'Metamorphous', cursive;*/
 	font-family: 'Monofett', cursive;
-	font-weight: 100;
 }
 
 #front-end-engineer {
 	-webkit-text-stroke: 1px black;
+	font-size: 55px;
 }
 
 
