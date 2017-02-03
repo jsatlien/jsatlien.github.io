@@ -1216,10 +1216,9 @@ font-size: 14px;
 }
 
 #about-image {
-	min-height: 300px;
-	min-width: 300px;
-	max-height: 300px;
-	max-width: 300px;
+	min-width: 400px;
+	height: auto;
+	border-radius: 200px;
 
 	/*margin: 50px auto;*/
 }
