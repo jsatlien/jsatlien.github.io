@@ -27,7 +27,10 @@ window.scrollBy({
   left: 0,
   behavior: 'smooth'
 });*/
-
+#site-thumbnail {
+  height: 0px;
+  width: 0px;
+}
 body {
 	font: 400 12px/1.8 'Open Sans', serif;
 	color: #666;
